@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { fa0 } from "@fortawesome/free-solid-svg-icons";
 import "./AboutContent.css";
 import React from 'react';
 import abo1 from "../assets/abo1.jpg";
